@@ -3,7 +3,7 @@
 
 * Assignment Details:
 ```angular2html
-
+https://github.com/syedjameel/Kalman-Filter-GPS-Accelerometer/blob/6a83dc962ac21bf934f1e027bb3cb2005e558399/HW2_Kalman%20Filter_v2.pdf
 ```
 
 ## Task 1
@@ -28,7 +28,7 @@ This Assignment is run by a single notebook file ```main.ipynb``` in the main fo
 
 * Clone project using command:
 ```angular2html
-
+https://github.com/syedjameel/Kalman-Filter-GPS-Accelerometer.git
 ```
 
 ### How to Run
@@ -36,7 +36,7 @@ This Assignment is run by a single notebook file ```main.ipynb``` in the main fo
 1. Run the following command to navigate to the directory using:
 
    ```shell
-   cd SPA-Assignment-3/ 
+   cd SPA-Assignment-2/ 
    ```
 2. Run the following command to install dependent libraries:
 
